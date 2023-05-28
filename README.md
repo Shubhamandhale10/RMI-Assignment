@@ -8,8 +8,8 @@ It Contain four File:
 4)ServerImpl.java
 
 To run This Assignment open Cmd and type:
-javac *.java
-rmiregistry
+1).javac *.java
+2).rmiregistry
 
 open second terminal:
 java Server
